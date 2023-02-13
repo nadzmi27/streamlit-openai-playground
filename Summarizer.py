@@ -1,4 +1,4 @@
-# Add secrets.toml to gitignore
+# TODO: add secrets.toml to gitignore
 
 # Import dependencies
 import openai
